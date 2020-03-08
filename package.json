@@ -1,0 +1,19 @@
+{
+  "name": "cli-demo",
+  "version": "1.0.1",
+  "description": "cli demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "cli-demo"
+  },
+  "keywords": [
+    "cli-demo"
+  ],
+  "author": "liujuan",
+  "license": "ISC",
+  "bin": "cli.js",
+  "dependencies": {
+    "commander": "^4.1.1"
+  },
+  "repository": "git@github.com:JocelynLj/cli-demo.git"
+}
